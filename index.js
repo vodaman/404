@@ -9,7 +9,7 @@ n = randomXToY(1, 5);
 
 switch(n) {
     case 1:
-        img.setAttribute("src", "https://media0.giphy.com/media/LoGh1t5iGxFOE/giphy.gif?cid=ecf05e47h9ohn2w3fgze408amkiel0yrzu6f4gchihg675km&ep=v1_gifs_related&rid=giphy.gif&ct=g");
+        img.setAttribute("src", "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R5NTdqN3ZkMWhkaDltdWlyZHV5ODN0em90OG8zNHUzaGx1d2F2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kanT1ZarQwtI4/giphy.gif");
         break;
     case 2:
         img.setAttribute("src", "https://media0.giphy.com/media/vy0fmrQQu27DAs3EuV/giphy.gif?cid=ecf05e47h9ohn2w3fgze408amkiel0yrzu6f4gchihg675km&ep=v1_gifs_related&rid=giphy.gif&ct=g");
