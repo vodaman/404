@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 .wrapper, html, body {
     width: 100%;
@@ -12,14 +13,15 @@
     text-align: center;
 }
 
-h1 {
+.info {
     width: 650px;
-    font-size: 25px;
+    font-size: 24px;
     padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .four-o-four {
-    font-size: 90px;
+    font-size: 88px;
     padding: 0;
     margin: 0;
 }
