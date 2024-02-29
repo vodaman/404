@@ -31,7 +31,8 @@ button {
 }
 
 .info::after {
-    content: "|";
+    content: " █";
+    animation-name: cursor;
 }
 
 .four-o-four {
