@@ -13,14 +13,6 @@
     text-align: center;
 }
 
-nav {
-    background: #0F1523;
-    width: 100%;
-    padding: 20px;
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
-}
-
 img {
     max-width: 90%;
     height: 450px;
@@ -40,7 +32,6 @@ button {
 
 .info::after {
     content: "|";
-    
 }
 
 .four-o-four {
