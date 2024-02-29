@@ -32,8 +32,7 @@ button {
 
 .info::after {
     content: " █";
-    transition: opacity 0s;
-    animation: 1s cursor;
+    animation: 1.5s cursor step-end;
     animation-iteration-count: infinite;
 }
 
