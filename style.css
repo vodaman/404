@@ -32,14 +32,6 @@ button {
 
 .info::after {
     content: " █";
-    animation-name: cursor;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes cursor {
-    0%, 100% {opacity: 0;}
-    50% {opacity: 1;}
 }
 
 .four-o-four {
