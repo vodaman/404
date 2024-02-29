@@ -25,12 +25,12 @@ switch(n) {
         break;
     default:
         console.log("Not a number");
-} 
+}
 
 var string = "This page doesn't exist, but we can give you a ride to the homepage! :)";
 var str = string.split("");
 var el = document.getElementById('type');
 (function animate() {
-str.length > 0 ? el.innerHTML += str.shift() : clearTimeout(running); 
+str.length > 0 ? el.innerHTML += str.shift() : clearTimeout(running);
 var running = setTimeout(animate, 80);
 })();

@@ -38,6 +38,11 @@ button {
     font-family: 'Montserrat', sans-serif;
 }
 
+.info::after {
+    content: "|";
+    
+}
+
 .four-o-four {
     font-size: 88px;
     padding: 0;
